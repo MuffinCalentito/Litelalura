@@ -1,4 +1,11 @@
-<h1>Bienvenido a la libreria gutendex</h1>
+<h1>Bienvenido a la libreria gutendex!!!</h1>
+<h2>Caracteristicas de la aplicación</h2>
+<h4>-Aplicacion desarrollada con Java 17 y SpringBoot 3</h4>
+<h4>-Uso de las dependencias lombok, jackson, postgresql, data-jpa</h4>
+<h4>-Esta aplicacion consume la API de Gutendex</h4>
+<h4>-Conexion a la base de datos relacional Postgresql</h4>
+<h4>-Uso de HttpClient, HttpRequest, HttpResponse, que permite realizar peticiones a la API</h4>
+
 <h2>La libreria tendrá un menu interactivo con el cual se podran realizar multiples acciones</h2>
 <h2>Menu</h2>
 
